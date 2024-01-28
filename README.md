@@ -1,7 +1,5 @@
-<picture>
   ![computerclipart](https://github.com/Bbrnn/Bbrnn/assets/113863725/cf950b62-025b-4839-9ffa-fad37a309350)
 
-</picture>
 
 ## About me
 <!--To do:UPDATE MY PROFILE-->
