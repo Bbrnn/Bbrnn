@@ -10,6 +10,7 @@ Hi,my name is Bridget Ngugi.I am a computer scientist.
  
 <details>
 <summary>My top languages</summary>
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Python    |
