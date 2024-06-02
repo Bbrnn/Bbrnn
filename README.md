@@ -24,8 +24,8 @@ Hi,my name is Bridget Ngugi.I am a computer scientist.
 </details>
 
 ---
+> cogito,ergo,sum(I code and therefore I am) -Rene Dercartes
 >Any sufficiently advanced technology  is indistinguishable from magic.
->It's still magic even if you know how it is done.
 -@BRI
 
 
