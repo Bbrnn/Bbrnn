@@ -1,32 +1,45 @@
-  ![computerclipart](https://github.com/Bbrnn/Bbrnn/assets/113863725/cf950b62-025b-4839-9ffa-fad37a309350)
+![Profile Banner](https://github.com/Bbrnn/Bbrnn/assets/113863725/cf950b62-025b-4839-9ffa-fad37a309350)
+
+## Hi there, I'm Bridget 👋
+
+I am a computer scientist passionate about Web development,Cybersecurity and Data Science.
+
+<!--- 🌱 I’m currently learning **Cybersecurity and Data Science**.-->
+- 👯 I’m looking to collaborate on any project that will help grow my skills.
+- 🎓 Studying in [Dedan kimathi university](https://www.dkut.ac.ke/)
+- 📫 How to reach me: [ngugihyee@gmail.com](mailto:bridget.ngugi@example.com)
+
+### 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
-## About me
-<!--To do:UPDATE MY PROFILE-->
 
-Hi,my name is Bridget Ngugi.I am a computer scientist.
-- 🌱 I’m currently learning Cybersecurity and data science
-- 👯 I’m looking to collaborate on any project that will help grow my skills
- 
-<details>
-<summary>My top languages</summary>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Python    |
-|     2| Javascript|
-|     3| HTML      |
-|     4| CSS       |
-|     5| PHP       |
-|     6| SQL       |
-|     7| JAVA      |
+### ✍️ Blog & Writing
+- [Recent Blog Post 1](link-to-blog-post)
+- [Recent Blog Post 2](link-to-blog-post)
 
-</details>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridget-ngugi/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+
+### 🎨 Fun Facts
+- 🎸 I love playing hockey in my free time
+- 🌍 I also enjoy sketching
 
 ---
-> cogito,ergo,sum(I code and therefore I am) -Rene Dercartes
->Any sufficiently advanced technology  is indistinguishable from magic.
--@BRI
+
+> **Cogito, ergo sum** *(I code and therefore I am)* - René Descartes  
+> **Any sufficiently advanced technology is indistinguishable from magic.**  
+> *@BRI*
+
 
 
 
