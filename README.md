@@ -22,17 +22,18 @@ I am a computer scientist passionate about Web development,Cybersecurity and Dat
 
 
 ### ✍️ Blog & Writing
-- [Recent Blog Post 1](link-to-blog-post)
-- [Recent Blog Post 2](link-to-blog-post)
+- [Recent Blog Post 1](https://medium.com/@bridgetngugi9/picoctf-2024-web-exploitation-bookmarklet-writeup-8b4428f5d855)
+- [Recent Blog Post 2](https://medium.com/@bridgetngugi9/boost-your-browsing-create-bookmarklets-using-javascript-12c8371b0ae6)
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bridget-ngugi/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngugi-njoki/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@bridgetngugi9/)
 
 ### 🎨 Fun Facts
-- 🎸 I love playing hockey in my free time
-- 🌍 I also enjoy sketching
+- 🏒 I love playing hockey in my free time.
+- ✏️ I also enjoy sketching.
+
 
 ---
 
