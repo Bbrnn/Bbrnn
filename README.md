@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Bridget 👋
 
-I am a computer scientist passionate about Web development,Wb application security and Data Science.
+I am a computer scientist passionate about Web development,Web application security and Data Science.
 
 <!--- 🌱 I’m currently learning **Cybersecurity and Data Science**.-->
 - 👯 I’m looking to collaborate on any project that will help grow my skills.
