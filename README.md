@@ -2,11 +2,11 @@
 
 ## Hi there, I'm Bridget 👋
 
-I am a computer scientist passionate about Web development,Web application security and Data Science.
+I am passionate about Web development,Web application security and Data Science.
 
 <!--- 🌱 I’m currently learning **Cybersecurity and Data Science**.-->
 - 👯 I’m looking to collaborate on any project that will help grow my skills.
-- 🎓 Studying in [Dedan kimathi university](https://www.dkut.ac.ke/)
+- 🎓 Studying computer science.
 - 📫 How to reach me: [ngugihyee@gmail.com](mailto:bridget.ngugi@example.com)
 
 ### 🔧 Technologies & Tools
@@ -24,6 +24,7 @@ I am a computer scientist passionate about Web development,Web application secur
 ### ✍️ Blog & Writing
 - [Recent Blog Post 1](https://medium.com/@bridgetngugi9/picoctf-2024-web-exploitation-bookmarklet-writeup-8b4428f5d855)
 - [Recent Blog Post 2](https://medium.com/@bridgetngugi9/boost-your-browsing-create-bookmarklets-using-javascript-12c8371b0ae6)
+- <https://dev.to/bridget/understanding-outliers-what-they-are-and-why-they-matter-3mje>
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngugi-njoki/)
